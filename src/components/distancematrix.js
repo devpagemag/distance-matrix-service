@@ -6,6 +6,7 @@ const map;
 var markers=[];
 var infowindow;
 const API_KEY = "AIzaSyBbAD8ggVGI4kVX-lGQXYVvy6k29ddthaY" ;
+
 class Map extends React.Component {
   constructor(props) { 
     super(props);
